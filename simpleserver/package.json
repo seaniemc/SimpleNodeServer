@@ -4,20 +4,8 @@
   "description": "Very simple server",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brad Traversy",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seaniemc/SimpleNodeServer.git"
-  },
-  "keywords": [
-    "NodeJs"
-  ],
-  "bugs": {
-    "url": "https://github.com/seaniemc/SimpleNodeServer/issues"
-  },
-  "homepage": "https://github.com/seaniemc/SimpleNodeServer#readme"
+  "license": "ISC"
 }
